@@ -1,4 +1,2 @@
 file a.txt
-change a
-change b
 
